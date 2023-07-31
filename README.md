@@ -1,11 +1,5 @@
 # PyTorch YOLO
 A minimal PyTorch implementation of YOLOv3, with support for training, inference and evaluation.
-
-YOLOv4 and YOLOv7 weights are also compatible with this implementation.
-
-You need to join the virtual environment by running `poetry shell` in this directory before running any of the following commands without the `poetry run` prefix.
-Also have a look at the other installing method, if you want to use the commands everywhere without opening a poetry-shell.
-
 ## Test
 Evaluates the model on COCO test dataset.
 To download this dataset as well as weights, see above.
